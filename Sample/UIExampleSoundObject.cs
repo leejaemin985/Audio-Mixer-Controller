@@ -6,7 +6,7 @@ namespace MixerControllerExample
     {
         public override ExampleSoundType SoundType => ExampleSoundType.UI;
 
-        protected override float spatialBlendSetting => 1f;
+        protected override float spatialBlendSetting => 0f;
 
         [SerializeField] private AudioClip uiClip;
 
