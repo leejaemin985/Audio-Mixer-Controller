@@ -1,0 +1,19 @@
+{
+  "name": "com.leejaemin985.audio-mixer-controller",
+  "displayName": "Audio Mixer Controller",
+  "version": "0.1.0",
+  "description": "Unity package for controlling audio mixer behaviors (CommonMixerController, SoundObject)",
+  "unity": "2020.3",
+  "keywords": [
+    "audio",
+    "mixer",
+    "sound",
+    "unity"
+  ],
+  "author": {
+    "name": "leejaemin985",
+    "email": "",
+    "url": "https://github.com/leejaemin985"
+  },
+  "license": "MIT"
+}
